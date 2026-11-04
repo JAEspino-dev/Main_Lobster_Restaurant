@@ -1,4 +1,4 @@
-# Maine_Lobster_Restaurant
+# Maine Lobster Restaurant
 Responsive restaurant website built to showcase a Maine-based restaurant through a custom front-end experience.
 
 # 📋 Link 
